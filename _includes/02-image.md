@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![GitHub copyright image of GitHub markdown source example](https://docs.github.com/assets/cb-17772/images/help/writing/display-markdown-as-source.png)
